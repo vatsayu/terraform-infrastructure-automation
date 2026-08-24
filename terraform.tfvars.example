@@ -1,0 +1,3 @@
+environment       = "development"
+application_name  = "devops-demo"
+owner             = "devops-lab"
